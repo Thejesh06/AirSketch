@@ -10,7 +10,6 @@ AirSketch is a real-time drawing application that uses OpenCV and MediaPipe for 
 - **Hand Pose Detection**: Detects hand landmarks and gestures using MediaPipe.
 
 ## Requirements
-
 - Python 3.x
 - OpenCV
 - MediaPipe
